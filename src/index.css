@@ -1,0 +1,18 @@
+body {
+  background-color: #03fcec;
+  text-align: center;
+}
+h1{
+  text-shadow: -3px 1px 28px #07081F;
+  margin-top: 10%;
+  font-size: 20vh;
+  box-shadow: 21px 21px 29px 4px #000000 inset;
+}
+h2{
+  box-shadow: -1px 3px 29px 11px rgba(0,0,0,0.4);
+}
+#heading{
+  font-size: 50px;
+  
+
+}
